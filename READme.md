@@ -12,11 +12,10 @@ This project combines web scraping, machine learning, interactive dashboards, an
 
 🧠 ML Model Training: Trained and compared multiple regression models:
 
---Support Vector Regression (SVR)
+Support Vector Regression (SVR)
 
---Gradient Boosting Regressor (GBR)
+Gradient Boosting Regressor (GBR)
 
-📈 Evaluation: Assessed models using MAE and R² Score; achieved 89% accuracy with GBR.
 
 🗺️ Recommendation Engine: Implemented a content-based recommendation system using cosine similarity.
 
@@ -34,15 +33,20 @@ This project combines web scraping, machine learning, interactive dashboards, an
 
 ⚙️ How to Run
 # Step 1: Clone the repo
+```
 git clone https://github.com/Bhanuraj23m0316iitb/AI-Driven-Real-Estate-Price-Prediction-Recommendation-System.git
 cd AI-Driven-Real-Estate-Price-Prediction-Recommendation-System
+```
 
 # Step 2: Install dependencies
+```
 pip install -r requirements.txt
+```
 
 # Step 3: Run the app
-streamlit run App_master/Home.py
-
+```
+streamlit run App_master/app.py
+```
 🌍 Live App
 Check out the full project here: [AI-Driven Real Estate Recommender](https://realestateprice-csekbrbvegfge0f6.southeastasia-01.azurewebsites.net/)
 
