@@ -12,9 +12,9 @@ This project combines web scraping, machine learning, interactive dashboards, an
 
 - 🧠 ML Model Training: Trained and compared multiple regression models:
 
--- Support Vector Regression (SVR)
+- Support Vector Regression (SVR)
 
--- Gradient Boosting Regressor (GBR)
+- Gradient Boosting Regressor (GBR)
 
 
 - 🗺️ Recommendation Engine: Implemented a content-based recommendation system using cosine similarity.
