@@ -49,6 +49,6 @@ Check out the full project here: [AI-Driven Real Estate Recommender](https://rea
 📩 Contact
 👨‍💻 Bhanuraj Badal
 📧 Email: [badalbhanuraj@gmail.com]
-🔗 GitHub: @Bhanuraj23m0316iitb
+🔗 GitHub: [https://github.com/Bhanuraj23m0316iitb/AI-Driven-Real-Estate-Price-Prediction-Recommendation-System]
 
 
